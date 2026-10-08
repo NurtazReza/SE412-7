@@ -5,4 +5,8 @@ Checking in from my local pc
 changing from main branch 1
 changing from the login branch for yhe 2nd time
 
+<<<<<<< HEAD
 writing something different in local pc
+=======
+added this line
+>>>>>>> f571dcef5a3c6c488cb86079e405f52e50282726
